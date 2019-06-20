@@ -1,1 +1,2 @@
 add new command to file
+learn such command as push -- and change file on remote
