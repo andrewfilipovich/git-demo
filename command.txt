@@ -5,3 +5,5 @@ learn such command as push -- and change file on remote
 run git gui& - -work with git gui
 
 new branch test
+
+line -- tutu 
