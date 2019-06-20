@@ -7,3 +7,5 @@ run git gui& - -work with git gui
 new branch test
 
 line -- tutu 
+
+ resolve conflict -- add line to test
