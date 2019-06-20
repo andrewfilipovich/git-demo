@@ -1,2 +1,5 @@
-add new command to file
+add command to file
+
 learn such command as push -- and change file on remote
+
+run git gui& - -work with git gui
