@@ -9,3 +9,6 @@ new branch test
 line -- tutu 
 
 not_fast forward 
+
+
+resolve conflict -- add line to master
