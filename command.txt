@@ -7,3 +7,5 @@ run git gui& - -work with git gui
 new branch test
 
 line -- tutu 
+
+not_fast forward 
